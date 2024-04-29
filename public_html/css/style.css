@@ -1,0 +1,40 @@
+body{
+    font-family: "Inter", sans-serif;
+    font-weight: 20px;
+    font-style: normal;
+}
+
+.field{
+    height: 350px;
+    width: 350px;
+    position: solid;
+    border: 3px solid;
+    background-color: pink;
+    margin: 0 auto;
+}
+
+.explain{
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    padding-bottom: 25px;
+}
+
+.figure{
+    width: 25px;
+    height: 25px;
+    top: 38px;
+    left: 38px;
+    position: relative;
+    background-color: red;
+}
+
+.position1{
+    position: relative;
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    top: 187px;
+    left: 0px;
+}
+
